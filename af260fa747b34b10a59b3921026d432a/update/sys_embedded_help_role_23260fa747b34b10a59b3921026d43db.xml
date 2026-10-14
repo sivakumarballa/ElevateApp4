@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_elevateapp4.admin" name="x_snc_elevateapp4.admin">6f260fa747b34b10a59b3921026d43d7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>sivakumar.balla@snc</sys_created_by>
+        <sys_created_on>2026-10-14 10:32:20</sys_created_on>
+        <sys_id>23260fa747b34b10a59b3921026d43db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6f260fa747b34b10a59b3921026d43d7</sys_name>
+        <sys_package display_value="ElevateApp4" source="x_snc_elevateapp4">af260fa747b34b10a59b3921026d432a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ElevateApp4">af260fa747b34b10a59b3921026d432a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_23260fa747b34b10a59b3921026d43db</sys_update_name>
+        <sys_updated_by>sivakumar.balla@snc</sys_updated_by>
+        <sys_updated_on>2026-10-14 10:32:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
